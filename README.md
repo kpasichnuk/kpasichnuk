@@ -1,12 +1,12 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://static.thenounproject.com/png/4140598-200.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn2.iconfinder.com/data/icons/user-interface-vol-2-14/48/brightness-light-up-day-mode-512.png ">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ### Hi there 👋
 🔭 I’m currently working through the AppAcademy Software Engineering program. <br />
 🌱 I’m currently learning Web development.
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
 
 <!--
