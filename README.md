@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on through the AppAcademy Software Engineering program.
+🔭 I’m currently working on through the AppAcademy Software Engineering program. <br />
 🌱 I’m currently learning Web development.
 
 <!--
